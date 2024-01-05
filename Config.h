@@ -1,0 +1,19 @@
+#pragma once
+
+#define WINDOW_WIDTH 800
+#define WINDOW_HEIGHT 600
+
+#define CLOTH_WIDTH 1200
+#define CLOTH_HEIGHT 320
+#define CLOTH_LENGTH 10
+
+#define MAX_CURSOR_SIZE 100
+#define MIN_CURSOR_SIZE 10
+#define INIT_CURSOR_SIZE 20;
+
+#define X_SEGMENTS 64
+#define Y_SEGMENTS 64
+#define PI 3.14159265359f
+
+#define G 981.0f
+#define ELASTICITY 10.0f
